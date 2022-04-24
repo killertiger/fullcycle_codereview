@@ -1,3 +1,4 @@
 *.js @tigraomatador
 .github/ @killertiger
 *.go @killertiger
+*.html @killertiger
